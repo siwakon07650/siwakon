@@ -1,0 +1,36 @@
+.work-title{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+
+}
+.men{
+    margin-bottom: 1rem;
+}
+.work-intro{
+    font-size: 1.2rem;
+    margin-bottom: 5rem;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.work-gallery{
+    margin-bottom: 1.5rem;
+   
+}
+.work-meta{
+    min-width: 1000px;
+    margin: auto;
+    text-align: left;
+    box-shadow: 0 2px 10px black;
+    border-radius: 5px;
+    padding: 1.5rem;
+    max-width: 1000px;
+    background-color: aliceblue;
+    margin-bottom: 1rem;
+}
+.work-meta p{
+    margin-bottom: .5rem;
+}
+.work-back{
+   text-align: center;
+}
